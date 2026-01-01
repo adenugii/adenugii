@@ -20,7 +20,7 @@
   <a href="mailto:adenugroho3112@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://your-portfolio-web.com" target="_blank">
+  <a href="https://ade-nugroho.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 
