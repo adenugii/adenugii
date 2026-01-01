@@ -57,6 +57,6 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=555&icon_color=000" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=555" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=adenugii&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=555&icon_color=000" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adenugii&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=555" height="150" alt="languages graph"  />
 </div>
